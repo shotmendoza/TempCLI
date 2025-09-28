@@ -1,2 +1,1 @@
-# TempCLI
-a cookie cutter template for quick CLI setups on various applications
+1. Don't forget to include exact match column names for parameter arguments.
